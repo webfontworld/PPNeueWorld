@@ -3,6 +3,33 @@ https://pangrampangram.com/products/neue-world
 # PPNeueWorld
 
 <pre>
+
+@font-face {
+    font-family: 'PPNeueWorld';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.ttf') format("truetype");
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PPNeueWorld-Thin';
+    font-weight: 100;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.ttf') format("truetype");
+    font-display: swap;
+}
+
+
+
+
 @font-face {
     font-family: 'PPNeueWorld-CondensedRegular';
     font-weight: normal;
@@ -27,17 +54,6 @@ https://pangrampangram.com/products/neue-world
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'PPNeueWorld-Regular';
-    font-weight: normal;
-    font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Regular.ttf') format("truetype");
-    font-display: swap;
-}
 
 @font-face {
     font-family: 'PPNeueWorld-SemiCondensedUltrabold';
@@ -75,15 +91,5 @@ https://pangrampangram.com/products/neue-world
     font-display: swap;
 }
 
-@font-face {
-    font-family: 'PPNeueWorld-Thin';
-    font-weight: normal;
-    font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/PPNeueWorld/PPNeueWorld-Thin.ttf') format("truetype");
-    font-display: swap;
-}
+
 </pre>
